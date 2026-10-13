@@ -1,3 +1,21 @@
+/*
+THEORY - Task 2
+
+1. forEach():
+   Loops through each element and executes a function. Does not return new array.
+   Used to print student details.
+
+2. map():
+   Creates a NEW array by transforming each element.
+   Used to get only names from students array.
+
+3. filter():
+   Creates a NEW array with elements that pass a condition.
+   Used to get students who scored 80 or above.
+*/
+
+
+
 
 
 let students = [
